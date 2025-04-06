@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ji</h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <div>
     <p>📫 How to reach me <strong>jiratchayaya303@gmail.com</strong></p>
     <p>⚡ Fun fact: It's not easy being newbie.</p>
