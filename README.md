@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ji</h1>
 
+<p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/cc/d8/0c/ccd80c02b8336ae77047c608493c4e03.gif)" width="300" />
+</p>
+
 - 📫 How to reach me **jiratchayaya303@gmail.com**
 
 - ⚡ Fun fact **It's not easy being newbie.**
@@ -17,8 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiratz2&" alt="jiratz2" /></p>
 
-<h3 align="left">🏆 GitHub Achievements:</h3>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=jiratz2&theme=onedark&no-bg=true&margin-w=10" />
-</p>
