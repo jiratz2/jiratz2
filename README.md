@@ -4,7 +4,7 @@
 
 
   <p>📫 How to reach me <strong>jiratchayaya303@gmail.com</strong></p>
-  <p>⚡ Fun fact: It's not easy being newbie.</p>
+  <p>⚡ It's not easy being newbie.</p>
 
   
 
