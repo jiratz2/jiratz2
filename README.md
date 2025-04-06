@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ji</h1>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <p>📫 How to reach me <strong>jiratchayaya303@gmail.com</strong></p>
-    <p>⚡ Fun fact: It's not easy being newbie.</p>
-  </div>
-  <img src="https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif" width="150" alt="GIF" />
-</div>
+<img src="https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif" width="150" alt="GIF" />
+
+
+  <p>📫 How to reach me <strong>jiratchayaya303@gmail.com</strong></p>
+  <p>⚡ Fun fact: It's not easy being newbie.</p>
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
