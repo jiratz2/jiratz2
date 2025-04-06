@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ji</h1>
 
-<img src="https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif" width="150" alt="GIF" />
+<img src="https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif"  alt="GIF" />
 
 
   <p>📫 How to reach me <strong>jiratchayaya303@gmail.com</strong></p>
