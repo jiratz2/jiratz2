@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ji</h1>
 
 <p align="center">
-  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/cc/d8/0c/ccd80c02b8336ae77047c608493c4e03.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx1bHhmeTZyYW42YnlwbndtOWxjM3l6YzBmZ2IybmVoNHFyMWF0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P7JmDW7IkB7TW/giphy.gif)" width="300" />
+  <img src="https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 
 - 📫 How to reach me **jiratchayaya303@gmail.com**
