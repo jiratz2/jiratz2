@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ji</h1>
 
-<div display="flex">
-  - 📫 How to reach me **jiratchayaya303@gmail.com**
+<table>
+  <tr>
+    <td>
 
-  - ⚡ Fun fact **It's not easy being newbie.**
-  <p align="center">
-  <img src="https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif" width="300" alt="Coding GIF"/>
-  </p>
-</div>
+- 📫 How to reach me **jiratchayaya303@gmail.com**  
+- ⚡ Fun fact: It's not easy being newbie.
+
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif" width="150" alt="GIF" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
